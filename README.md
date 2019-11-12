@@ -2,7 +2,7 @@
 
 <head>
 
-<title>PAGINA DE DANNY MORA</title>
+
 
 </head>
 
